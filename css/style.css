@@ -1,0 +1,1304 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 10px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+}
+.who-we-are img{
+    padding-left: 200px;
+}@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 10px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+}
+.who-we-are img{
+    padding-left: 200px;
+}@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 10px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+}
+.who-we-are img{
+    padding-left: 200px;
+}@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 20px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 23px;
+}
+.who-we-are img{
+    padding-left: 150px;
+}
+.what-we-do{
+    background-color: #F7F8F8;
+    position: relative;
+}
+.what-we-do::before{
+    content: "";
+    background-image: url(../images/what-we-do-background.png);
+    position: absolute;
+    width: 65%;
+    height: 89%;
+    /* top: 0; */
+    bottom: 0;
+    right: 0;
+    transform: translate(0%, 7%);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* left: 0; */
+}
+.what-we-do .heading span{
+    margin: auto;
+    margin-bottom: 20px;
+}
+.whatwedo{
+    position: relative;
+    margin-bottom: 80px;
+}
+.whatwedo::before{
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,313286+100&0+0,1+100 */
+background: -moz-linear-gradient(top,  rgba(30,87,153,0) 0%, rgba(49,50,134,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#313286',GradientType=0 ); /* IE6-9 */
+
+}
+.whatwedo img{}
+.whatwedo h4{
+    color: white;
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    font-weight: 600;
+    /* letter-spacing: 2px; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+}
+.whatwedo i{
+    color: white;
+    position: absolute;
+    top: 85%;
+    font-size: 30px;
+    left: 50%;
+    transform: translate(-50%, -15%);
+}
+
+.our-attorneys{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+.attorneys-heading{
+    padding-top: 300px;
+}
+.our-attorneys p{
+    color: #c0c6e8;
+    font-size: 14px;
+}
+.attorneys{
+    /* margin-top: 200px; */
+}
+.our-attorneys a{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.attorneys-heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 20px;
+}
+.attorneys-heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+}
+.attorneys-img{
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+.single-img p{}
+.single-img h4{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.single-img h3{}
+.attorneys-title{
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+}
+.single-img{
+    position: relative;
+    margin-bottom: 20px;
+}
+.single-img::before{
+     content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,313286+100&0+0,1+100 */
+background: -moz-linear-gradient(top,  rgba(30,87,153,0) 0%, rgba(49,50,134,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#313286',GradientType=0 ); /* IE6-9 */
+
+}
+
+.language-section{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.language-section span{
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.languag{
+    margin-top: 50px;
+}
+.languag h4{
+    color: #664F87;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.languag p{
+    color: #B9B9BA;
+}
+
+.languag a{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.contacts-section{
+    
+}
+.contacts-section span{
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 10px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+}
+.who-we-are img{
+    padding-left: 200px;
+}@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 10px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+}
+.who-we-are img{
+    padding-left: 200px;
+}@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #515A94!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 10px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+}
+.who-we-are img{
+    padding-left: 200px;
+}@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Open+Sans:400,600i,700&display=swap');
+p{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+body{font-family: 'Montserrat', sans-serif;
+}
+.header{
+    background-color: #FFFFFF;
+    
+}
+.navbar-light .navbar-brand {
+    color: #515A94;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    transition: all 1.4s ease;
+}
+.navbar-brand:hover {
+   color: #515A94!important;
+    font-size: 32px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #515A94;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 15px;
+    transition: all 1.4s;
+}
+.navbar-nav .nav-link:hover {
+    color: #F2612C!important;
+    font-size: 15px;
+}
+.banner-section{
+    background-image: url(../images/banner.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+.second-bg{
+    background-image: url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+    height: 100%;
+    width: 55%;
+    position: absolute;
+}
+.banner-content{
+    width: 28%;
+    left: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-content h1{
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.arrow::before{
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 50%;
+    transform: translateY(50%);
+}
+.arrow{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    left: 50%;
+    transform: translateX(50%);
+    bottom: 0;
+    padding-bottom: 30px;
+    transition: all 1.4s ease;
+}
+.heading{
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+.heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 20px;
+}
+.heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1E4F87;
+    font-size: 30px;
+}
+.who-we-are{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.who-we-are p{
+    color: #B5B5B6;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 23px;
+}
+.who-we-are img{
+    padding-left: 150px;
+}
+.what-we-do{
+    background-color: #F7F8F8;
+    position: relative;
+}
+.what-we-do::before{
+    content: "";
+    background-image: url(../images/what-we-do-background.png);
+    position: absolute;
+    width: 65%;
+    height: 89%;
+    /* top: 0; */
+    bottom: 0;
+    right: 0;
+    transform: translate(0%, 7%);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* left: 0; */
+}
+.what-we-do .heading span{
+    margin: auto;
+    margin-bottom: 20px;
+}
+.whatwedo{
+    position: relative;
+    margin-bottom: 80px;
+}
+.whatwedo::before{
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,313286+100&0+0,1+100 */
+background: -moz-linear-gradient(top,  rgba(30,87,153,0) 0%, rgba(49,50,134,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#313286',GradientType=0 ); /* IE6-9 */
+
+}
+.whatwedo img{}
+.whatwedo h4{
+    color: white;
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    font-weight: 600;
+    /* letter-spacing: 2px; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+}
+.whatwedo i{
+    color: white;
+    position: absolute;
+    top: 85%;
+    font-size: 30px;
+    left: 50%;
+    transform: translate(-50%, -15%);
+}
+
+.our-attorneys{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+.attorneys-heading{
+    padding-top: 300px;
+}
+.our-attorneys p{
+    color: #c0c6e8;
+    font-size: 14px;
+}
+.attorneys{
+    /* margin-top: 200px; */
+}
+.our-attorneys a{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.attorneys-heading span{
+    width: 70px;
+    height: 3px;
+    background-color: #F47B3B;
+    display: block;
+    margin-bottom: 20px;
+}
+.attorneys-heading h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+}
+.attorneys-img{
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+.single-img p{}
+.single-img h4{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.single-img h3{}
+.attorneys-title{
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+}
+.single-img{
+    position: relative;
+    margin-bottom: 20px;
+}
+.single-img::before{
+     content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,313286+100&0+0,1+100 */
+background: -moz-linear-gradient(top,  rgba(30,87,153,0) 0%, rgba(49,50,134,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(30,87,153,0) 0%,rgba(49,50,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#313286',GradientType=0 ); /* IE6-9 */
+
+}
+
+.language-section{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.language-section span{
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.languag{
+    margin-top: 50px;
+}
+.languag h4{
+    color: #664F87;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.languag p{
+    color: #B9B9BA;
+}
+
+.languag a{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.contacts-section{
+    background-color: #28377E;
+}
+.contacts-section span{
+    margin: auto;
+    margin-bottom: 20px;
+}
+.contacts-section h1{
+   text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+}
+.contact-form{}
+.contact-form .form-group{}
+.btn-custom{
+    background-color: #F2622B;
+    color: white;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 0;
+}
+.btn-custom:hover{
+    background-color: transparent;
+    border: 1px solid #7f7777;
+    color: white;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: none;
+    border-bottom: 1px solid #7f7777;
+    border-radius: 0;
+}
+
+.form-control:focus{
+    background-color: transparent;
+    border: 1px solid #7f7777;
+    outline: none;
+    box-shadow: 0 0 0 0 rgba(0,123,255,0);
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,);
+    
+
+}
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color:white!important;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: white!important;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: white!important;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: white!important;
+}
+
+.footer-section{
+    background-color: #0B1434;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}    
+.footer-section p{ 
+    color: #515B91;
+}
+.footer_icon{}
+.footer_icon li{}
+.footer_icon li a{
+    color: #A2A7C9;
+}
+.footer_icon li a i{}
+
+
+

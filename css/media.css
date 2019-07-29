@@ -1,0 +1,75 @@
+@media(max-width:1199px) {
+     .banner-content {
+   width: 47%;
+}
+   
+
+
+@media(max-width: 991px){ 
+    .who-we-are img {
+    padding-left: 0px;
+}
+    .banner-content {
+   width: 47%;
+}
+}
+
+@media(max-width:767px) {
+   .banner-content {
+   width: 64%;
+}
+    .single-img h4 {
+    font-size: 20px;
+}
+    .attorneys-heading h1 {
+    font-size: 26px;
+}
+    .attorneys-heading {
+    padding-top: 200px;
+}
+   
+}
+
+@media(max-width:576px) {
+  .attorneys-heading{
+    text-align: center;
+}
+    .our-attorneys a {
+    margin-left: 190px;
+}
+    .our-attorneys p {
+
+    text-align: center;
+}
+    .attorneys-heading span {margin: auto;margin-bottom: 15px;}
+      .who-we-are .heading{
+    text-align: center;
+}
+     .who-we-are .heading a {
+    margin-left: 190px;
+}
+     .who-we-are .heading p {
+
+    text-align: center;
+}
+     .who-we-are .heading span {margin: auto;margin-bottom: 15px;}
+    .banner-content {
+    width: 68%;
+}
+    .arrow {
+    padding-bottom: 100px;
+}
+     .banner-content {
+   width: 74%;
+}
+    .footer_icon li a {
+    padding: 10px;
+}
+    .what-we-do::before {
+    
+    width: 100%;
+}
+}
+@media(max-width:374px){
+   
+}
